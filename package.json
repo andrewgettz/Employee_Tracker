@@ -1,0 +1,23 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "An app using jest node and sql to create a backend for tracking employee",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgettz/Employee_Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewgettz/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/andrewgettz/Employee_Tracker#readme",
+  "dependencies": {
+    "jest": "^29.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
